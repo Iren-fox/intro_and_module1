@@ -1,0 +1,8 @@
+quan_homework=12
+quan_clock=1.5
+course_name='Python'
+time_for_task=quan_clock/quan_homework
+print('Курс: ',course_name)
+print('всего задач: ',quan_homework)
+print('затрачено часов: ',quan_clock)
+print('среднее время выполнения ',time_for_task,'часов')
